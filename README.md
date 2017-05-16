@@ -12,7 +12,7 @@ Put "import sortkmax.sortKMax;" into the top of your java file.
 
 The main method is:
 
-public static int[] sortKMax(int[] a, int k, int start, int end);
+public static int[] sortKMax(int[] a, int k);
 
 It accepts an array and will find and sort the largest k elements of a into the
 beginning of the array.
